@@ -1,0 +1,6 @@
+[submodule "Dictionary-Development-Kit"]
+	path = Dictionary-Development-Kit
+	url = git@github.com:SebastianSzturo/Dictionary-Development-Kit.git
+[submodule "pyglossary"]
+	path = pyglossary
+	url = git@github.com:ilius/pyglossary.git
